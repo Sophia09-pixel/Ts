@@ -1,5 +1,7 @@
 let saldo = 3000;
 
+alert("Testando compilador do ts");
+
 const spanSaldo = document.querySelector(".saldo-valor .valor") as HTMLElement;
 if (spanSaldo !== null) {
   spanSaldo.textContent = saldo.toString();

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "outDir": "./formacao-typescript-projeto/dist/js",
+        "noEmitOnError": true
+    },
+
+    "include": [
+        "./formacao-typescript-projeto/src/**/*"
+    ]
+}
