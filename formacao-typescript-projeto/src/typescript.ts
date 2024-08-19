@@ -28,3 +28,5 @@ const novaTransacao: Transacao = {
     data: new Date(),
     valor: 0
 }
+
+console.log(novaTransacao);
